@@ -16,6 +16,8 @@ using AutoLotModel;
 using System.Data.Entity;
 using System.Data;
 
+
+
 namespace Ilinca_Tarnavean_Lab5
 {
     /// <summary>
